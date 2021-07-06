@@ -1,0 +1,1 @@
+![PSI logo](logo.svg)
